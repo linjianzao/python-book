@@ -1,6 +1,6 @@
 #for
 
-语法:
+####语法:
 <pre><code>
 for iterating_var in sequence:
    statements(s)
