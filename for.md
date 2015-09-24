@@ -53,5 +53,15 @@ for num in range(10, 20):  #range构造出从10开始到19结束的list, [10,11.
 <br>
 <br>
 
-
+#### 列表表达式
+<pre><code>
+sq = [ x**2 for x in range(4)]
+for s in sq:
+    print s 
+</code></pre>
+结果:
+0
+1
+4
+9
 
