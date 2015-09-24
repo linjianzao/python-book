@@ -5,6 +5,8 @@
 for iterating_var in sequence:
    statements(s)
 </code></pre>
+<br>
+<br>
 
 ####for、in、continue
 <pre><code>
@@ -20,8 +22,9 @@ for item in ["mail","surfing","homework","chat"]:
 执行结果:<br> 
 surfing<br>
 homework<br>
-chat<br>
-
+chat
+<br>
+<br>
 
 ####素数:除了1和它本身外，不能被其他自然数整除
 <pre><code>
@@ -46,8 +49,9 @@ for num in range(10, 20):  #range构造出从10开始到19结束的list, [10,11.
 16 等于 2 * 8<br>
 17 是素数<br><br>
 18 等于 2 * 9<br>
-19 是素数<br>
-
+19 是素数
+<br>
+<br>
 
 
 
