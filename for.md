@@ -1,14 +1,13 @@
 #for
-直接拷贝下面的代码执行
+
+语法:
 <pre><code>
+for iterating_var in sequence:
+   statements(s)
+</code></pre>
 
 #!/bin/env python
 # -*- coding:utf8 -*- 
-
-#语法
-#for iterating_var in sequence:
-#   statements(s)
-
 
 #for、in、continue
 for item in ["mail","surfing","homework","chat"]:
@@ -47,4 +46,4 @@ for num in range(10, 20):  #range构造出从10开始到19结束的list, [10,11.
 
 
 
-</code></pre>
+
