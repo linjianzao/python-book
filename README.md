@@ -19,7 +19,7 @@ python的例子 <br />
       |
       |
       |
-python|---------异常
+python|---------<a href="https://github.com/linjianzao/python-getting-started/blob/master/%E5%BC%82%E5%B8%B8.md">异常</a>
       |
       |
       |
