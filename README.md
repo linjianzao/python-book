@@ -23,9 +23,9 @@ python|---------<a href="https://github.com/linjianzao/python-getting-started/bl
       |
       |
       |
-      |
-      |---------集合
-      |
+      |               |----list
+      |---------集合  |----<a href="https://github.com/linjianzao/python-getting-started/blob/master/tuple.md"> tuple </a>
+      |               |----dict
       |
       |
       |
