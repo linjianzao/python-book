@@ -33,6 +33,8 @@ print 3 in (1, 2, 3) #结果True
 for x in (1, 2, 3): print x, #结果: 1 2 3
 </code></pre>
 <br><br>
+tuple(iter) 把一个可迭代对象转换成一个元组对象
+<br><br>
 ####列出索引和值
 <pre><code>
 #!/bin/env python
