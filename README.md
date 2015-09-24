@@ -3,7 +3,7 @@ code example for python beginner <br />
 python的例子 <br />
 <pre><code>
                            
-                           |---- <a href="">值定义、赋值</a>
+                          |---- <a href="">值定义、赋值</a>
       |---------基础语法    |---- <a href="">运算</a>
       |                    
       |
