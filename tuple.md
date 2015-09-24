@@ -30,6 +30,7 @@ print ('Hi!',) * 4 #结果('Hi!', 'Hi!', 'Hi!', 'Hi!')
 
 print 3 in (1, 2, 3) #结果True
 
+
 for x in (1, 2, 3): print x, #结果: 1 2 3
 </code></pre>
 <br><br>
