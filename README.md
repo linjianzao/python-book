@@ -7,10 +7,11 @@ python的例子 <br />
       |---------基础语法   |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/%E8%BF%90%E7%AE%97.md">运算</a>
       |                    
       |
-      |
-      |
-      |---------条件和循环
-      |
+      |                    
+      |                    |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/ifelse.md">if else</a> 
+      |---------条件和循环 |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/for.md">for</a> 
+      |                    |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/while.md">while</a>
+      |                    
       |
       |
       |
