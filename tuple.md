@@ -32,7 +32,7 @@ print 3 in (1, 2, 3) #结果True
 
 for x in (1, 2, 3): print x, #结果: 1 2 3
 </code></pre>
-
+<br><br>
 ####列出索引和值
 <pre><code>
 #!/bin/env python
@@ -41,7 +41,8 @@ for k,v in enumerate(tuB):
     print k,v
     
 </code></pre>
-结果:
-0 a
-1 b
-2 c
+结果:<br>
+0 a<br>
+1 b<br>
+2 c<br>
+<br><br>
