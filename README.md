@@ -15,7 +15,7 @@ python的例子 <br />
       |
       |
       |
-python|---
+python|
       |
       |
       |
