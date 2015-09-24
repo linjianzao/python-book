@@ -59,9 +59,9 @@ sq = [ x**2 for x in range(4)]
 for s in sq:
     print s 
 </code></pre>
-结果:
-0
-1
-4
-9
+结果:<br>
+0<br>
+1<br>
+4<br>
+9<br>
 
