@@ -54,7 +54,7 @@ for x in [1, 2, 3]: print x, #结果: 1 2 3
 for k,v in enumerate(liB):
     print k,v
 </code></pre>
-结果
-0 a
-1 b
-2 c
+结果<br>
+0 a<br>
+1 b<br>
+2 c<br>
