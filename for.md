@@ -5,7 +5,7 @@
 #!/bin/env python
 # -*- coding:utf8 -*- 
 
-
+#语法
 #for iterating_var in sequence:
 #   statements(s)
 
