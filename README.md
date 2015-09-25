@@ -26,7 +26,7 @@ python|---------<a href="https://github.com/linjianzao/python-getting-started/bl
       |               |----<a target="_blank" href="https://github.com/linjianzao/python-getting-started/blob/master/list.md">list</a>
       |---------集合  |----<a target="_blank" href="https://github.com/linjianzao/python-getting-started/blob/master/tuple.md"> tuple </a>
       |               |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/dict.md">dict</a>
-      |               |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/set.md"></a>
+      |               |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/set.md">set</a>
       |               |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/frozenset.md">frozenset</a>
       |               |----可迭代对象的共有方法
       |
