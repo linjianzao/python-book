@@ -1,5 +1,5 @@
 # python-getting-started
-<a target="_blank" href="https://docs.python.org/2.7/library/index.html">官方类库</a>
+<a target="_blank" href="https://docs.python.org/2.7/library/index.html">官方类库</a><br />
 code example for python beginner <br />
 python的例子 <br />
 <pre><code>
