@@ -82,6 +82,31 @@
         <td>difference_update(other, ...)</td>
         <td>sa.difference_update(sb),从sa里删除在sb里的元素,相当于set -= other | ...</td>
     </tr>
+    <tr>
+        <td>symmetric_difference_update(other)</td>
+        <td>sa.symmetric_difference_update(sb),
+        <br>返回sa里有sb没有的元素和sb里有sa没有的元素,  相当于 (sa-sb)|(sb-sa)</td>
+    </tr>
+    <tr>
+        <td>add(elem)</td>
+        <td>sa.add('5'),添加元素</td>
+    </tr>
+    <tr>
+        <td>remove(elem)</td>
+        <td>sa.remove(elem),删除元素elem,如果不存在elem会引发异常</td>
+    </tr>
+    <tr>
+        <td>discard(elem)</td>
+        <td>sa.discard(elem),从sa中删除元素elem,如果elem不存在,则不操作</td>
+    </tr>
+    <tr>
+        <td>pop()</td>
+        <td>sa.pop(),从sa中删除一个元素，如果sa是空的,会引发异常</td>
+    </tr>
+    <tr>
+        <td>clear()</td>
+        <td>sa.clear(),清空sa</td>
+    </tr>
 </table>
     <tr>
         <td></td>
