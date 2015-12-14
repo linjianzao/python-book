@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td>symmetric_difference(other)</td>
-        <td>sc= sa ^ sb 相当于 (sa-sb)|(sb-sa)</td>
+        <td>sc= sa ^ sb 相当于 (sa-sb)|(sb-sa) </td>
     </tr>
     <tr>
         <td>copy()</td>
@@ -68,8 +68,19 @@
           修改a[0]的元素,b不会修改，但是修改a[1]的元素,b会跟着修改</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>update(other, ...)</td>
+        <td>sa.update(sb), 在sa后面加入sb</td>
+    </tr>
+    <tr>
+        <td>intersection_update(other, ...)</td>
+        <td>
+            sa.intersection_update(sb),交集,返回sa和sb里都存在的元素sa.<br>
+            原位操作，消耗少。推荐
+        </td>
+    </tr>
+    <tr>
+        <td>difference_update(other, ...)</td>
+        <td>sa.difference_update(sb),从sa里删除在sb里的元素,相当于set -= other | ...</td>
     </tr>
 </table>
     <tr>
