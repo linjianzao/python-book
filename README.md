@@ -12,9 +12,13 @@ python的例子 <br />
       |                    |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/ifelse.md">if else</a> 
       |---------条件和循环 |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/for.md">for</a> 
       |                    |---- <a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/while.md">while</a>
-      |                    
       |
-      |
+      |                 
+      |                 |<a href="https://github.com/linjianzao/python-getting-started/blob/master/datetime.md">datetime</a>
+      |                 |
+      |---------时间类型|
+      |                 |
+      |                 |
       |
       |---------模块
       |
