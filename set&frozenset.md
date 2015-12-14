@@ -108,7 +108,3 @@
         <td>sa.clear(),清空sa</td>
     </tr>
 </table>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
