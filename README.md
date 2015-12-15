@@ -35,7 +35,7 @@ python|---------<a href="https://github.com/linjianzao/python-getting-started/bl
       |               |----可迭代对象的共有方法
       |
       |             |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/匿名函数.md">匿名函数</a>
-      |             |----apply()、filter()、map()、reduce()
+      |             |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/apply()、filter()、map()、reduce().md">apply()、filter()、map()、reduce()</a>
       |---------函数|----偏函数
       |             |----递归
       |             |----生成器
