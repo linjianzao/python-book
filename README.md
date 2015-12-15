@@ -34,8 +34,11 @@ python|---------<a href="https://github.com/linjianzao/python-getting-started/bl
       |               |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/set%26frozenset.md">set&frozense</a>
       |               |----可迭代对象的共有方法
       |
-      |
-      |---------函数
+      |             |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/匿名函数.md">匿名函数</a>
+      |             |----apply()、filter()、map()、reduce()
+      |---------函数|----偏函数
+      |             |----递归
+      |             |----生成器
       |
       |
       |
