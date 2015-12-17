@@ -36,9 +36,9 @@ python|---------<a href="https://github.com/linjianzao/python-getting-started/bl
       |
       |             |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/匿名函数.md">匿名函数</a>
       |             |----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/apply()、filter()、map()、reduce().md">apply()、filter()、map()、reduce()</a>
-      |---------函数
-      |             |----递归
-      |             |----生成器
+      |---------函数|----<a target="_blank"  href="https://github.com/linjianzao/python-getting-started/blob/master/生成器.md">生成器</a>
+      |             
+      |             
       |
       |
       |
