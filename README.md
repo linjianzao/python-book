@@ -37,7 +37,7 @@ python|---------<a href="%E5%BC%82%E5%B8%B8.md">异常</a>
       |             |----<a target="_blank"  href="匿名函数.md">匿名函数</a>
       |             |----<a target="_blank"  href="apply()、filter()、map()、reduce().md">apply()、filter()、map()、reduce()</a>
       |---------函数|----<a target="_blank"  href="生成器.md">生成器</a>
-      |             
+      |             |----<a target="_blank"  href="decorators.md">decorators修饰器</a>
       |             
       |
       |
