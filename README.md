@@ -58,8 +58,8 @@ python|---------<a href="%E5%BC%82%E5%B8%B8.md">异常</a>
       |
       |
       |
-      |             |----<a target="_blank"  href="抽象工厂模式（abstract_factory）.md">抽象工厂模式（abstract_factory）</a>
-      |             |----<a target="_blank"  href="单例模式(Singleton).md">单例模式(Singleton)</a>
+      |             |----<a target="_blank"  href="抽象工厂模式（abstract_factory）.py">抽象工厂模式（abstract_factory）</a>
+      |             |----<a target="_blank"  href="单例模式(Singleton).py">单例模式(Singleton)</a>
       |-----设计模式|----
       |             |----
       |             |----
