@@ -58,7 +58,7 @@ python|---------<a href="%E5%BC%82%E5%B8%B8.md">异常</a>
       |
       |
       |
-      |             |----<a target="_blank"  href=""></a>
+      |             |----<a target="_blank"  href="抽象工厂模式（abstract_factory）.md">抽象工厂模式（abstract_factory）</a>
       |             |----
       |-----设计模式|----
       |             |----
