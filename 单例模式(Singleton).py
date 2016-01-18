@@ -16,6 +16,8 @@ m.a = 2
 print n.a 
 print m.a 
 
+#实现一
+#来源:http://www.pythontip.com/pythonPatterns/detail/borg
 class Borg(object):
     __shared_state = dict()
 
